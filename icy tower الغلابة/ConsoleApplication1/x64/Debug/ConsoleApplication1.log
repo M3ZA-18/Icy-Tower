@@ -1,0 +1,80 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(202,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(202,46): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(202,46): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(202,46): warning C4244:             T=int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(202,46): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(277,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(281,52): warning C4244: 'argument': conversion from 'sf::Int64' to 'unsigned int', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,101): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,101): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,101): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,101): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,101): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,37): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,37): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,37): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(340,37): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(349,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(357,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(378,31): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(378,31): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(378,31): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(378,31): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(378,31): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,104): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,104): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,104): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,104): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,104): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,40): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,40): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,40): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(414,40): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,102): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,102): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,102): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,102): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,102): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,38): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,38): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,38): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(423,38): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,111): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,111): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,111): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,111): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,111): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,42): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,42): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,42): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(433,42): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(505,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(505,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(507,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(507,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(539,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(539,56): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(539,56): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(539,56): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(539,56): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(541,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(541,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(715,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(715,60): warning C4244:         with
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(715,60): warning C4244:         [
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(715,60): warning C4244:             T=unsigned int
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(715,60): warning C4244:         ]
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(716,52): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(716,47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(778,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(778,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(780,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(780,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\icy tower الغلابة\ConsoleApplication1\Main.cpp(924,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\icy tower الغلابة\x64\Debug\SFML Template.exe
